@@ -1,0 +1,7 @@
+{
+  "name": "AI Designer Pro - Style Asset Generator",
+  "description": "A high-end AI design tool that analyzes uploaded image styles to generate consistent avatar frames, entrance effects, medals, and wallpapers using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
